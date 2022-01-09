@@ -1,3 +1,12 @@
+# Sobre o projeto 
+Essa projeto é uma forma de troca de themes de uma aplicação e guardardando esse theme pra caso a pessoa dê um reload na aplicação.
+## Neste projeto foi usado:
+### ReactJS
+### TypeScript
+### Styled Components
+### E outros componentes pra manipular o switch do tema e a cor
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
